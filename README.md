@@ -3,8 +3,8 @@
 
 - 💻 Atualmente trabalho como Tecnica de Suporte
 - ❤️ Uma amadora no mundo da Tecnologia
-- 🌱 Terceiro período em Analise e Desenvolvimento de Sistema
-- ⏳ Aprendiz em Java
+- 🌱 Segundo período em Analise e Desenvolvimento de Sistema
+- ⏳ Aprendiz em Java, HTML e CSS
 - 📫 Contate-me no Email: pamela_cwb@live.com
 
 <div align="center">
