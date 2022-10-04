@@ -3,7 +3,7 @@
 
 - 💻 Atualmente trabalho como Tecnica de Suporte
 - ❤️ Uma amadora no mundo da Tecnologia
-- 🌱 Segundo período em Analise e Desenvolvimento de Sistema
+- 🌱 Terceiro período em Analise e Desenvolvimento de Sistema
 - ⏳ Aprendiz de Back-end.
 - 📫 Contate-me no Email: pamela_cwb@live.com
 
