@@ -1,10 +1,9 @@
 ### Oii! Eu sou a Pâmela Rabech 👋
 
 
-- 💻 Atualmente trabalho como Tecnica de Suporte
+- 💻 Dev. Trainee Backend
 - ❤️ Uma amadora no mundo da Tecnologia
 - 🌱 Terceiro período em Analise e Desenvolvimento de Sistema
-- ⏳ Aprendiz de Back-end.
 - 📫 Contate-me no Email: pamela_cwb@live.com
 
 <div align="center">
