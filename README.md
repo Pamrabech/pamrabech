@@ -1,7 +1,7 @@
 ### Oii! Eu sou a Pâmela Rabech 👋
 
 
-- 💻 Dev. Trainee Backend
+- 💻 Dev. Junior Backend
 - ❤️ Uma amadora no mundo da Tecnologia
 - 🌱 Terceiro período em Analise e Desenvolvimento de Sistema
 - 📫 Contate-me no Email: pamela_cwb@live.com
